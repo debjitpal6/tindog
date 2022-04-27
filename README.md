@@ -13,3 +13,6 @@ The main framework used in building the TinDog website is Bootstrap and its comp
 ![](images/Carousel.png)
 
 ![](images/Card.png)
+
+# Copyright
+Angela Yu from UDEMY.
